@@ -10,7 +10,7 @@ body {
 	margin: 0;
 	font-family: 'Roboto', sans-serif;
 	position: relative;
-	background-color: #FFF;
+	background-color: #000;
 }
 
 body a {
@@ -899,7 +899,7 @@ div#my-cart-modal .close:hover, .close:focus {
 
 .wthreehome-latest {
 	padding: 50px 0;
-	background-color: #F5F5F5;
+	background-color: #000;
 }
 
 .wthreehome-latest-grid {
@@ -922,7 +922,7 @@ div#my-cart-modal .close:hover, .close:focus {
 	font-size: 14px;
 	font-weight: 400;
 	text-decoration: underline;
-	color: #000;
+	color: #FFF;
 }
 
 .wthreehome-latest-grid h6 a:hover {
@@ -1295,7 +1295,7 @@ figure.effect-apollo:hover figcaption::before {
 
 	.agilesocialwthree ul.social-icons li a {
 		font-size: 30px;
-		color: #000;
+		color: #FFF;
 	}
 
 	ul.social-icons li a.facebook:hover {
@@ -2927,7 +2927,7 @@ textarea.text {
 
 .w3aitssinglewthree {
 	padding: 100px 0;
-	background-color: #F5F5F5;
+	background-color: #000;
 }
 
 .single-top-right h1 {
@@ -2991,7 +2991,7 @@ textarea.text {
 	font-size: 16px;
 	line-height: 40px;
 	display: block;
-	color: #000;
+	color: #fff;
 }
 
 .single-price ul li:nth-child(1) {
@@ -3690,7 +3690,7 @@ p.single-price-text {
 		width: 50%;
 	}
 	.wthreehome-latest {
-		background-color: #EEE;
+		background-color: #000;
 	}
 	.style-grid-1-text h3, .style-grid-2-text h3 {
 		font-size: 33px;
