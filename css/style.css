@@ -12,7 +12,9 @@ body {
 	position: relative;
 	background-color: #000;
 }
-
+.cart1 {
+	padding-left: 500px
+}
 body a {
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
@@ -81,6 +83,9 @@ a:focus, a:hover {
 /*-- //Reset-Code --*/
 /*-- Index-Page-Styling --*/
 
+.cart1 {
+	postition: Static;
+}
 /*-- Header --*/
 
 	/*-- Navbar --*/
